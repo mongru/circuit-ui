@@ -17,5 +17,6 @@ import { defineTest } from 'jscodeshift/dist/testUtils';
 
 jest.autoMockOff();
 
-defineTest(__dirname, 'button-props');
-defineTest(__dirname, 'list-props');
+defineTest(__dirname, 'button-variants');
+defineTest(__dirname, 'list-variants');
+defineTest(__dirname, 'onchange-prop');
