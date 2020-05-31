@@ -20,3 +20,4 @@ jest.autoMockOff();
 defineTest(__dirname, 'button-variants');
 defineTest(__dirname, 'list-variants');
 defineTest(__dirname, 'onchange-prop');
+defineTest(__dirname, 'as-prop');
