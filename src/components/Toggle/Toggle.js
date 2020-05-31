@@ -28,6 +28,11 @@ const textWrapperStyles = ({ theme }) => css`
   display: block;
   margin-left: ${theme.spacings.kilo};
   cursor: pointer;
+
+  ${theme.mq.untilKilo} {
+    margin-left: 0;
+    margin-right: ${theme.spacings.kilo};
+  }
 `;
 
 const ToggleTextWrapper = styled('label')(textWrapperStyles);
@@ -57,6 +62,11 @@ const toggleWrapperStyles = ({ theme }) => css`
   display: flex;
   flex-align: flex-start;
   margin-bottom: ${theme.spacings.mega};
+
+  ${theme.mq.untilKilo} {
+    flex-direction: row-reverse;
+    justify-content: space-between;
+  }
 `;
 
 const toggleWrapperNoMarginStyles = ({ noMargin }) =>
@@ -66,33 +76,19 @@ const toggleWrapperNoMarginStyles = ({ noMargin }) =>
     margin-bottom: 0;
   `;
 
-const toggleWrapperReversedStyles = ({ theme, reversed }) =>
-  reversed &&
-  css`
-    ${theme.mq.untilKilo} {
-      flex-direction: row-reverse;
-      justify-content: space-between;
-      label {
-        margin-left: 0;
-        margin-right: ${theme.spacings.kilo};
-      }
-    }
-  `;
-
 const ToggleWrapper = styled('div')(
   toggleWrapperStyles,
-  toggleWrapperNoMarginStyles,
-  toggleWrapperReversedStyles
+  toggleWrapperNoMarginStyles
 );
 
 /**
  * A toggle component with support for labels and additional explanations.
  */
-const Toggle = ({ label, explanation, noMargin, reversed, ...props }) => {
+const Toggle = ({ label, explanation, noMargin, ...props }) => {
   const switchId = uniqueId('toggle-switch_');
   const labelId = uniqueId('toggle-label_');
   return (
-    <ToggleWrapper {...{ noMargin, reversed }}>
+    <ToggleWrapper {...{ noMargin }}>
       <Switch {...props} aria-labelledby={labelId} id={switchId} />
       {(label || explanation) && (
         <ToggleTextWrapper id={labelId} htmlFor={switchId}>
@@ -124,18 +120,13 @@ Toggle.propTypes = {
   /**
    * Removes the default bottom margin from the input.
    */
-  noMargin: PropTypes.bool,
-  /**
-   * Adds the ability of the component to be right-aligned.
-   */
-  reversed: PropTypes.bool
+  noMargin: PropTypes.bool
 };
 
 Toggle.defaultProps = {
   label: null,
   explanation: null,
-  noMargin: false,
-  reversed: false
+  noMargin: false
 };
 
 /**
