@@ -18,3 +18,4 @@ import { defineTest } from 'jscodeshift/dist/testUtils';
 jest.autoMockOff();
 
 defineTest(__dirname, 'button-props');
+defineTest(__dirname, 'list-props');

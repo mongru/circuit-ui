@@ -23,6 +23,12 @@ module.exports = require('@sumup/foundry/eslint')(
           'notice/notice': 'off',
           '@typescript-eslint/no-unused-vars': 'off'
         }
+      },
+      {
+        files: ['**/migrate/*.ts'],
+        rules: {
+          'consistent-return': 'off'
+        }
       }
     ]
   }
