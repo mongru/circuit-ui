@@ -84,8 +84,8 @@ export function Anchor(props: AnchorProps): ReturnType {
   }
 
   if (props.href) {
-    return <AnchorLink {...props} />;
+    return <AnchorLink noMargin {...props} />;
   }
 
-  return <BaseAnchor as="button" {...props} />;
+  return <BaseAnchor noMargin as="button" {...props} />;
 }

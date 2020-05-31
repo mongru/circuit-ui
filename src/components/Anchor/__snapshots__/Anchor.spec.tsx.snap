@@ -6,6 +6,7 @@ exports[`Anchor styles should render as a \`button\` when an onClick is passed 1
   margin-bottom: 16px;
   font-size: 16px;
   line-height: 24px;
+  margin-bottom: 0;
   display: inline-block;
   -webkit-text-decoration: underline;
   text-decoration: underline;
@@ -88,6 +89,7 @@ exports[`Anchor styles should render as an \`a\` when an href (and onClick) is p
   margin-bottom: 16px;
   font-size: 16px;
   line-height: 24px;
+  margin-bottom: 0;
   display: inline-block;
   -webkit-text-decoration: underline;
   text-decoration: underline;
