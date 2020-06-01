@@ -3882,7 +3882,7 @@ exports[`Storyshots Components/Card Base 1`] = `
   -webkit-justify-content: space-between;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 0 1px 0 rgba(12,15,20,0.06), 0 2px 2px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 0 1px 0 rgba(12,15,20,0.07),0 2px 2px 0 rgba(12,15,20,0.07);
   padding: 16px 24px;
   width: 500px;
   height: 150px;
@@ -3913,7 +3913,7 @@ HTMLCollection [
   -webkit-justify-content: space-between;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 0 1px 0 rgba(12,15,20,0.06), 0 2px 2px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 0 1px 0 rgba(12,15,20,0.07),0 2px 2px 0 rgba(12,15,20,0.07);
   padding: 16px 24px;
   width: 500px;
   height: 150px;
@@ -3940,7 +3940,7 @@ HTMLCollection [
   -webkit-justify-content: space-between;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 2px 2px 0 rgba(12,15,20,0.06), 0 4px 4px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 2px 2px 0 rgba(12,15,20,0.07),0 4px 4px 0 rgba(12,15,20,0.07);
   padding: 16px 24px;
   width: 500px;
   height: 150px;
@@ -3967,7 +3967,7 @@ HTMLCollection [
   -webkit-justify-content: space-between;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 4px 4px 0 rgba(12,15,20,0.06), 0 8px 8px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 4px 4px 0 rgba(12,15,20,0.07),0 8px 8px 0 rgba(12,15,20,0.07);
   padding: 16px 24px;
   width: 500px;
   height: 150px;
@@ -3999,7 +3999,7 @@ HTMLCollection [
   -webkit-justify-content: space-between;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 0 1px 0 rgba(12,15,20,0.06), 0 2px 2px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 0 1px 0 rgba(12,15,20,0.07),0 2px 2px 0 rgba(12,15,20,0.07);
   padding: 16px 16px;
   width: 500px;
   height: 150px;
@@ -4036,7 +4036,7 @@ HTMLCollection [
   -webkit-justify-content: space-between;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 0 1px 0 rgba(12,15,20,0.06), 0 2px 2px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 0 1px 0 rgba(12,15,20,0.07),0 2px 2px 0 rgba(12,15,20,0.07);
   padding: 16px 24px;
   width: 500px;
   height: 150px;
@@ -4171,7 +4171,7 @@ HTMLCollection [
   -webkit-justify-content: space-between;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 0 1px 0 rgba(12,15,20,0.06), 0 2px 2px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 0 1px 0 rgba(12,15,20,0.07),0 2px 2px 0 rgba(12,15,20,0.07);
   padding: 16px 24px;
   width: 500px;
   height: 150px;
@@ -4329,7 +4329,7 @@ HTMLCollection [
   -webkit-justify-content: space-between;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 0 1px 0 rgba(12,15,20,0.06), 0 2px 2px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 0 1px 0 rgba(12,15,20,0.07),0 2px 2px 0 rgba(12,15,20,0.07);
   padding: 16px 24px;
   width: 500px;
   height: 150px;
@@ -4458,7 +4458,7 @@ HTMLCollection [
   -webkit-justify-content: space-between;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 0 1px 0 rgba(12,15,20,0.06), 0 2px 2px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 0 1px 0 rgba(12,15,20,0.07),0 2px 2px 0 rgba(12,15,20,0.07);
   padding: 16px 24px;
   width: 500px;
   height: 150px;
@@ -4546,7 +4546,7 @@ HTMLCollection [
   -webkit-justify-content: space-between;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 0 1px 0 rgba(12,15,20,0.06), 0 2px 2px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 0 1px 0 rgba(12,15,20,0.07),0 2px 2px 0 rgba(12,15,20,0.07);
   padding: 16px 24px;
   width: 500px;
   height: 150px;
@@ -4737,7 +4737,7 @@ exports[`Storyshots Components/Card/CardList Base 1`] = `
   -webkit-justify-content: space-between;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 0 1px 0 rgba(12,15,20,0.06), 0 2px 2px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 0 1px 0 rgba(12,15,20,0.07),0 2px 2px 0 rgba(12,15,20,0.07);
   padding: 16px 24px;
   padding: 0;
 }
@@ -7028,7 +7028,7 @@ exports[`Storyshots Components/Modal/Embedded Base 1`] = `
   -webkit-justify-content: space-between;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 4px 4px 0 rgba(12,15,20,0.06), 0 8px 8px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 4px 4px 0 rgba(12,15,20,0.07),0 8px 8px 0 rgba(12,15,20,0.07);
   padding: 16px 24px;
   width: 100%;
 }
@@ -7377,7 +7377,7 @@ exports[`Storyshots Components/Modal/Embedded With Footer 1`] = `
   -webkit-justify-content: space-between;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 4px 4px 0 rgba(12,15,20,0.06), 0 8px 8px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 4px 4px 0 rgba(12,15,20,0.07),0 8px 8px 0 rgba(12,15,20,0.07);
   padding: 16px 24px;
   width: 100%;
 }
@@ -7494,7 +7494,7 @@ exports[`Storyshots Components/Modal/Embedded With Title 1`] = `
   -webkit-justify-content: space-between;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 4px 4px 0 rgba(12,15,20,0.06), 0 8px 8px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 4px 4px 0 rgba(12,15,20,0.07),0 8px 8px 0 rgba(12,15,20,0.07);
   padding: 16px 24px;
   width: 100%;
 }
@@ -7662,7 +7662,7 @@ exports[`Storyshots Components/Modal/Embedded With Title And Close Button 1`] = 
   -webkit-justify-content: space-between;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 4px 4px 0 rgba(12,15,20,0.06), 0 8px 8px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 4px 4px 0 rgba(12,15,20,0.07),0 8px 8px 0 rgba(12,15,20,0.07);
   padding: 16px 24px;
   width: 100%;
 }
@@ -7752,7 +7752,7 @@ exports[`Storyshots Components/Modal/Embedded Without Close Button 1`] = `
   -webkit-justify-content: space-between;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 4px 4px 0 rgba(12,15,20,0.06), 0 8px 8px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 4px 4px 0 rgba(12,15,20,0.07),0 8px 8px 0 rgba(12,15,20,0.07);
   padding: 16px 24px;
   width: 100%;
 }
@@ -8397,7 +8397,7 @@ exports[`Storyshots Components/Notification/NotificationBanner Base 1`] = `
 .circuit-6 {
   width: 100%;
   background-color: #FFFFFF;
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 0 1px 0 rgba(12,15,20,0.06), 0 2px 2px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 0 1px 0 rgba(12,15,20,0.07),0 2px 2px 0 rgba(12,15,20,0.07);
 }
 
 .circuit-4 {
@@ -8546,7 +8546,7 @@ exports[`Storyshots Components/Notification/NotificationList Base 1`] = `
   -webkit-justify-content: space-between;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 2px 2px 0 rgba(12,15,20,0.06), 0 4px 4px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 2px 2px 0 rgba(12,15,20,0.07),0 4px 4px 0 rgba(12,15,20,0.07);
   padding: 16px 16px;
 }
 
@@ -10769,7 +10769,7 @@ exports[`Storyshots Components/Table Base 1`] = `
 
 .circuit-66 {
   position: relative;
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 0 1px 0 rgba(12,15,20,0.06), 0 2px 2px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 0 1px 0 rgba(12,15,20,0.07),0 2px 2px 0 rgba(12,15,20,0.07);
 }
 
 .circuit-64 {
@@ -11411,7 +11411,7 @@ exports[`Storyshots Components/Table Custom Sort 1`] = `
 
 .circuit-48 {
   position: relative;
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 0 1px 0 rgba(12,15,20,0.06), 0 2px 2px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 0 1px 0 rgba(12,15,20,0.07),0 2px 2px 0 rgba(12,15,20,0.07);
 }
 
 .circuit-46 {
@@ -11828,7 +11828,7 @@ exports[`Storyshots Components/Table Sortable 1`] = `
 
 .circuit-50 {
   position: relative;
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 0 1px 0 rgba(12,15,20,0.06), 0 2px 2px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 0 1px 0 rgba(12,15,20,0.07),0 2px 2px 0 rgba(12,15,20,0.07);
 }
 
 .circuit-48 {
@@ -12374,7 +12374,7 @@ exports[`Storyshots Components/Table With Component Rows 1`] = `
 
 .circuit-44 {
   position: relative;
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 0 1px 0 rgba(12,15,20,0.06), 0 2px 2px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 0 1px 0 rgba(12,15,20,0.07),0 2px 2px 0 rgba(12,15,20,0.07);
 }
 
 .circuit-42 {
@@ -12727,7 +12727,7 @@ exports[`Storyshots Components/Tabs Base 1`] = `
 HTMLCollection [
   .circuit-10 {
   background: #FFFFFF;
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 2px 2px 0 rgba(12,15,20,0.06), 0 4px 4px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 2px 2px 0 rgba(12,15,20,0.07),0 4px 4px 0 rgba(12,15,20,0.07);
   height: 80px;
   display: -webkit-box;
   display: -webkit-flex;
@@ -12954,7 +12954,7 @@ exports[`Storyshots Components/Tabs Controlled State 1`] = `
 HTMLCollection [
   .circuit-10 {
   background: #FFFFFF;
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 2px 2px 0 rgba(12,15,20,0.06), 0 4px 4px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 2px 2px 0 rgba(12,15,20,0.07),0 4px 4px 0 rgba(12,15,20,0.07);
   height: 80px;
   display: -webkit-box;
   display: -webkit-flex;
@@ -13133,7 +13133,7 @@ HTMLCollection [
 exports[`Storyshots Components/Tabs Links 1`] = `
 .circuit-8 {
   background: #FFFFFF;
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 2px 2px 0 rgba(12,15,20,0.06), 0 4px 4px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 2px 2px 0 rgba(12,15,20,0.07),0 4px 4px 0 rgba(12,15,20,0.07);
   height: 80px;
   display: -webkit-box;
   display: -webkit-flex;
@@ -13653,7 +13653,7 @@ exports[`Storyshots Components/Tooltip Base 1`] = `
   transition: opacity 0.3s;
   font-size: 13px;
   line-height: 20px;
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 0 1px 0 rgba(12,15,20,0.06), 0 2px 2px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 0 1px 0 rgba(12,15,20,0.07),0 2px 2px 0 rgba(12,15,20,0.07);
   top: 50%;
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
@@ -13736,7 +13736,7 @@ exports[`Storyshots Components/Tooltip Bottom Right 1`] = `
   transition: opacity 0.3s;
   font-size: 13px;
   line-height: 20px;
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 0 1px 0 rgba(12,15,20,0.06), 0 2px 2px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 0 1px 0 rgba(12,15,20,0.07),0 2px 2px 0 rgba(12,15,20,0.07);
   left: 50%;
   left: calc(50% - (16px + 4px));
   top: 100%;
@@ -13814,7 +13814,7 @@ exports[`Storyshots Components/Tooltip Left Center 1`] = `
   transition: opacity 0.3s;
   font-size: 13px;
   line-height: 20px;
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 0 1px 0 rgba(12,15,20,0.06), 0 2px 2px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 0 1px 0 rgba(12,15,20,0.07),0 2px 2px 0 rgba(12,15,20,0.07);
   top: 50%;
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
@@ -13897,7 +13897,7 @@ exports[`Storyshots Components/Tooltip Top Left 1`] = `
   transition: opacity 0.3s;
   font-size: 13px;
   line-height: 20px;
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 0 1px 0 rgba(12,15,20,0.06), 0 2px 2px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 0 1px 0 rgba(12,15,20,0.07),0 2px 2px 0 rgba(12,15,20,0.07);
   right: 50%;
   right: calc(50% - (16px + 4px));
   bottom: 100%;
@@ -14329,7 +14329,7 @@ exports[`Storyshots Forms/Checkbox Invalid 1`] = `
   transition: opacity 0.3s;
   font-size: 13px;
   line-height: 20px;
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 0 1px 0 rgba(12,15,20,0.06), 0 2px 2px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 0 1px 0 rgba(12,15,20,0.07),0 2px 2px 0 rgba(12,15,20,0.07);
   left: 50%;
   left: calc(50% - (16px + 4px));
   bottom: 100%;
@@ -14806,7 +14806,7 @@ exports[`Storyshots Forms/InlineMessage Base 1`] = `
   -webkit-justify-content: space-between;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 0 1px 0 rgba(12,15,20,0.06), 0 2px 2px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 0 1px 0 rgba(12,15,20,0.07),0 2px 2px 0 rgba(12,15,20,0.07);
   padding: 16px 24px;
 }
 
@@ -15316,7 +15316,7 @@ label + .circuit-9 {
   transition: opacity 0.3s;
   font-size: 13px;
   line-height: 20px;
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 0 1px 0 rgba(12,15,20,0.06), 0 2px 2px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 0 1px 0 rgba(12,15,20,0.07),0 2px 2px 0 rgba(12,15,20,0.07);
   right: 50%;
   right: calc(50% - (16px + 4px));
   bottom: 100%;
@@ -15931,7 +15931,7 @@ label + .circuit-9 {
   transition: opacity 0.3s;
   font-size: 13px;
   line-height: 20px;
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 0 1px 0 rgba(12,15,20,0.06), 0 2px 2px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 0 1px 0 rgba(12,15,20,0.07),0 2px 2px 0 rgba(12,15,20,0.07);
   right: 50%;
   right: calc(50% - (16px + 4px));
   bottom: 100%;
@@ -16198,7 +16198,7 @@ label + .circuit-9 {
   transition: opacity 0.3s;
   font-size: 13px;
   line-height: 20px;
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 0 1px 0 rgba(12,15,20,0.06), 0 2px 2px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 0 1px 0 rgba(12,15,20,0.07),0 2px 2px 0 rgba(12,15,20,0.07);
   right: 50%;
   right: calc(50% - (16px + 4px));
   bottom: 100%;
@@ -18386,7 +18386,7 @@ label + .circuit-10 {
   transition: opacity 0.3s;
   font-size: 13px;
   line-height: 20px;
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 0 1px 0 rgba(12,15,20,0.06), 0 2px 2px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 0 1px 0 rgba(12,15,20,0.07),0 2px 2px 0 rgba(12,15,20,0.07);
   right: 50%;
   right: calc(50% - (16px + 4px));
   bottom: 100%;
@@ -18839,7 +18839,7 @@ exports[`Storyshots Forms/Selector Base 1`] = `
 
 .circuit-0:checked + label {
   background-color: #EDF4FC;
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 2px 2px 0 rgba(12,15,20,0.06), 0 4px 4px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 2px 2px 0 rgba(12,15,20,0.07),0 4px 4px 0 rgba(12,15,20,0.07);
 }
 
 .circuit-0:checked + label::before {
@@ -18847,7 +18847,7 @@ exports[`Storyshots Forms/Selector Base 1`] = `
 }
 
 .circuit-2 {
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 0 1px 0 rgba(12,15,20,0.06), 0 2px 2px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 0 1px 0 rgba(12,15,20,0.07),0 2px 2px 0 rgba(12,15,20,0.07);
   display: block;
   cursor: pointer;
   padding: 24px;
@@ -18868,6 +18868,8 @@ exports[`Storyshots Forms/Selector Base 1`] = `
   height: 100%;
   border-radius: 5px;
   border: 1px solid #9DA7B1;
+  -webkit-transition: border 0.1s ease-in-out;
+  transition: border 0.1s ease-in-out;
 }
 
 .circuit-2:hover {
@@ -18926,7 +18928,7 @@ exports[`Storyshots Forms/Selector Disabled 1`] = `
 
 .circuit-0:checked + label {
   background-color: #EDF4FC;
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 2px 2px 0 rgba(12,15,20,0.06), 0 4px 4px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 2px 2px 0 rgba(12,15,20,0.07),0 4px 4px 0 rgba(12,15,20,0.07);
 }
 
 .circuit-0:checked + label::before {
@@ -18934,7 +18936,7 @@ exports[`Storyshots Forms/Selector Disabled 1`] = `
 }
 
 .circuit-2 {
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 0 1px 0 rgba(12,15,20,0.06), 0 2px 2px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 0 1px 0 rgba(12,15,20,0.07),0 2px 2px 0 rgba(12,15,20,0.07);
   display: block;
   cursor: pointer;
   padding: 24px;
@@ -18958,6 +18960,8 @@ exports[`Storyshots Forms/Selector Disabled 1`] = `
   height: 100%;
   border-radius: 5px;
   border: 1px solid #9DA7B1;
+  -webkit-transition: border 0.1s ease-in-out;
+  transition: border 0.1s ease-in-out;
 }
 
 .circuit-2:hover {
@@ -19022,7 +19026,7 @@ exports[`Storyshots Forms/Selector Selected 1`] = `
 
 .circuit-0:checked + label {
   background-color: #EDF4FC;
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 2px 2px 0 rgba(12,15,20,0.06), 0 4px 4px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 2px 2px 0 rgba(12,15,20,0.07),0 4px 4px 0 rgba(12,15,20,0.07);
 }
 
 .circuit-0:checked + label::before {
@@ -19030,7 +19034,7 @@ exports[`Storyshots Forms/Selector Selected 1`] = `
 }
 
 .circuit-2 {
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 0 1px 0 rgba(12,15,20,0.06), 0 2px 2px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 0 1px 0 rgba(12,15,20,0.07),0 2px 2px 0 rgba(12,15,20,0.07);
   display: block;
   cursor: pointer;
   padding: 24px;
@@ -19051,6 +19055,8 @@ exports[`Storyshots Forms/Selector Selected 1`] = `
   height: 100%;
   border-radius: 5px;
   border: 1px solid #9DA7B1;
+  -webkit-transition: border 0.1s ease-in-out;
+  transition: border 0.1s ease-in-out;
 }
 
 .circuit-2:hover {
@@ -19110,7 +19116,7 @@ exports[`Storyshots Forms/Selector/SelectorGroup Base 1`] = `
 
 .circuit-0:checked + label {
   background-color: #EDF4FC;
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 2px 2px 0 rgba(12,15,20,0.06), 0 4px 4px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 2px 2px 0 rgba(12,15,20,0.07),0 4px 4px 0 rgba(12,15,20,0.07);
 }
 
 .circuit-0:checked + label::before {
@@ -19118,7 +19124,7 @@ exports[`Storyshots Forms/Selector/SelectorGroup Base 1`] = `
 }
 
 .circuit-2 {
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 0 1px 0 rgba(12,15,20,0.06), 0 2px 2px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 0 1px 0 rgba(12,15,20,0.07),0 2px 2px 0 rgba(12,15,20,0.07);
   display: block;
   cursor: pointer;
   padding: 24px;
@@ -19139,6 +19145,8 @@ exports[`Storyshots Forms/Selector/SelectorGroup Base 1`] = `
   height: 100%;
   border-radius: 5px;
   border: 1px solid #9DA7B1;
+  -webkit-transition: border 0.1s ease-in-out;
+  transition: border 0.1s ease-in-out;
 }
 
 .circuit-2:hover {
@@ -19237,7 +19245,7 @@ exports[`Storyshots Forms/Selector/SelectorGroup Multiple 1`] = `
 
 .circuit-0:checked + label {
   background-color: #EDF4FC;
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 2px 2px 0 rgba(12,15,20,0.06), 0 4px 4px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 2px 2px 0 rgba(12,15,20,0.07),0 4px 4px 0 rgba(12,15,20,0.07);
 }
 
 .circuit-0:checked + label::before {
@@ -19245,7 +19253,7 @@ exports[`Storyshots Forms/Selector/SelectorGroup Multiple 1`] = `
 }
 
 .circuit-2 {
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 0 1px 0 rgba(12,15,20,0.06), 0 2px 2px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 0 1px 0 rgba(12,15,20,0.07),0 2px 2px 0 rgba(12,15,20,0.07);
   display: block;
   cursor: pointer;
   padding: 24px;
@@ -19266,6 +19274,8 @@ exports[`Storyshots Forms/Selector/SelectorGroup Multiple 1`] = `
   height: 100%;
   border-radius: 5px;
   border: 1px solid #9DA7B1;
+  -webkit-transition: border 0.1s ease-in-out;
+  transition: border 0.1s ease-in-out;
 }
 
 .circuit-2:hover {
@@ -19587,7 +19597,7 @@ label + .circuit-9 {
   transition: opacity 0.3s;
   font-size: 13px;
   line-height: 20px;
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 0 1px 0 rgba(12,15,20,0.06), 0 2px 2px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 0 1px 0 rgba(12,15,20,0.07),0 2px 2px 0 rgba(12,15,20,0.07);
   right: 50%;
   right: calc(50% - (16px + 4px));
   bottom: 100%;
@@ -19896,7 +19906,7 @@ label + .circuit-9 {
   transition: opacity 0.3s;
   font-size: 13px;
   line-height: 20px;
-  box-shadow: 0 0 0 1px rgba(12,15,20,0.02), 0 0 1px 0 rgba(12,15,20,0.06), 0 2px 2px 0 rgba(12,15,20,0.06);
+  box-shadow: 0 0 0 1px rgba(12,15,20,0.07), 0 0 1px 0 rgba(12,15,20,0.07),0 2px 2px 0 rgba(12,15,20,0.07);
   right: 50%;
   right: calc(50% - (16px + 4px));
   bottom: 100%;
