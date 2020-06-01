@@ -7921,6 +7921,10 @@ exports[`Storyshots Components/Notification Alert 1`] = `
   }
 }
 
+.circuit-0 {
+  color: #DB4D4D;
+}
+
 <div
   class="circuit-7 circuit-8"
 >
