@@ -15,6 +15,7 @@
 
 import React, { HTMLProps, ReactNode, ReactElement, FC, SVGProps } from 'react';
 import { css } from '@emotion/core';
+import isPropValid from '@emotion/is-prop-valid';
 import { Theme } from '@sumup/design-tokens';
 
 import styled, { StyleProps } from '../../styles/styled';
@@ -175,7 +176,9 @@ const iconStyles = (theme: Theme) => css`
   margin-left: -${theme.spacings.bit};
 `;
 
-const BaseButton = styled('button')<ButtonProps>(
+const BaseButton = styled('button', {
+  shouldForwardProp: prop => isPropValid(prop) && prop !== 'size'
+})<ButtonProps>(
   baseStyles,
   primaryStyles,
   secondaryStyles,
